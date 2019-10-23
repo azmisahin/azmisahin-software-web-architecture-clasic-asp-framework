@@ -5,6 +5,7 @@
 
 # When someone opens a pull request that only modifies JS files.
 *.js	@azmisahin
+*.asp	@azmisahin
 
 #  When someone opens a pull request that only modifies /docs folder.
 /docs	@azmisahin
