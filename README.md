@@ -37,7 +37,7 @@ Uygulamanın klasör mimari dizayn bilgileri.
 
 ```
 .
-+-- build						'	Projeyi visual studio ortam�nda başlatır yada inşa eder.
++-- build						'	Projeyi visual studio ortamında başlatır yada inşa eder.
 +-- data						'	Proje Veritabanı Yapıları
 +-- docs						'	Proje Dökümanları
 +-- src							'	Proje Kaynak Dosyaları
@@ -66,7 +66,7 @@ Uygulamanın klasör mimari dizayn bilgileri.
 |   |   +-- web.config			'	Uygulama alt yapı hizmetlerini tanımlar.
 
 ```
-## Uygulama konfigurasyon dosyas� �rne�i
+## Uygulama konfigurasyon dosyası örneği
 ```ASP
 <%
     ' Veritabanı configurasyon dosyasıdır.
